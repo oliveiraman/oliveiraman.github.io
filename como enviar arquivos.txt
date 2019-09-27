@@ -1,0 +1,24 @@
+subir arquivos git hub
+
+1) abrir o mingw..
+
+2) ir até a pasta 
+
+3) comando git init
+
+4) copiar o link https://github.com/oliveiraman/oliveiraman.github.io.git
+
+5) git remote add origin https://github.com/oliveiraman/oliveiraman.github.io.git
+
+6) git add .
+obs.: adiciona todos os arquivos
+
+7) git status
+obs.: ele lista os arquivos que precisam de commit
+
+8) git commit -m "Arquivos iniciais"
+obs.: Grava os arquivos com observação
+
+9)git push origin master
+obs.: Envia de fato os arquivos e pede usuário e senha 
+
