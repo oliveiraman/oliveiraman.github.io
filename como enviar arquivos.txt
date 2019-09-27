@@ -22,3 +22,13 @@ obs.: Grava os arquivos com observação
 9)git push origin master
 obs.: Envia de fato os arquivos e pede usuário e senha 
 
+==============
+atualizar arquivo: 
+1) modifica o arquivo.
+2) git status
+obs.: identifica que tem alteração no arquivo
+3) git add .
+4) git commit -m "contato adicionado"
+5) git push origin master
+
+
